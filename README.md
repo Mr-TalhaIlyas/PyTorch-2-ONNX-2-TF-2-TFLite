@@ -11,4 +11,5 @@ onnx_tf.__version__
 '1.10.0'
 
 torch.__version__
+'2.0.0+cu117'
 ```
